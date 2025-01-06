@@ -1,0 +1,4 @@
+nodejs 20.18.1
+opentofu 1.8.8
+pnpm 9.15.3
+terraform 1.10.3

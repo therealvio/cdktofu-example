@@ -1,3 +1,16 @@
+# CDKTF-generated ignore
+*.d.ts
+*.js
+node_modules
+cdktf.out
+cdktf.log
+*terraform.*.tfstate*
+.gen
+.terraform
+tsconfig.tsbuildinfo
+!jest.config.js
+!setup.js
+
 # Logs
 logs
 *.log
