@@ -13,6 +13,7 @@
     "watch": "tsc -w",
     "test": "jest",
     "test:watch": "jest --watch",
+    "cdktf": "cdktf",
     "upgrade": "npm i cdktf@latest cdktf-cli@latest",
     "upgrade:next": "npm i cdktf@next cdktf-cli@next"
   },
@@ -21,6 +22,7 @@
   },
   "dependencies": {
     "cdktf": "^0.20.10",
+    "cdktf-cli": "^0.20.10",
     "constructs": "^10.4.2"
   },
   "devDependencies": {
